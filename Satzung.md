@@ -1,10 +1,10 @@
-#Satzung des Firegento e.V.
+#Satzung des FireGento e.V.
 
 ##Präambel
 > tbd
 
 ## § 1 Name, Sitz, Geschäftsjahr
-1. Der Verein führt den Namen "Firegento". Der Verein wird in das Vereinsregister eingetragen und dann um den Zusatz "e.V." ergänzt.
+1. Der Verein führt den Namen "FireGento". Der Verein wird in das Vereinsregister eingetragen und dann um den Zusatz "e.V." ergänzt.
 2. Er hat seinen Sitz in Berlin und soll in das Vereinsregister eingetragen werden.
 3. Das Geschäftsjahr ist das Kalenderjahr.
 
