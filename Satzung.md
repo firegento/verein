@@ -23,6 +23,7 @@
     1. Förderung des Völkerverständigungsgedankens.
 
 2. Der Verein erreicht seine Ziele insbesondere durch
+    1. Entwicklung von Open Source-Software sowie deren kostenfreier Vertrieb,
     1. Veranstaltung und/oder Förderung internationaler Treffen und Telekonferenzen,
     1. Arbeits- und Erfahrungsaustauschkreise,
     1. Unterstützung und Durchführung von Bildungs- und Ausbildungsmaßnahmen.
