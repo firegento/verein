@@ -95,15 +95,15 @@
    bilden den Vorstand im Sinne von § 26 BGB. Die Vorstandsmitglieder sind ehrenamtlich tätig. Die Vorstandsmitglieder
    müssen Mitglieder des Vereins sein.
 
-1. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit.
+2. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit.
 
-2. Zur rechtsverbindlichen Vertretung genügt die gemeinsame Zeichnung durch zwei Mitglieder des Vorstandes.
+3. Zur rechtsverbindlichen Vertretung genügt die gemeinsame Zeichnung durch zwei Mitglieder des Vorstandes.
 
-3. Die Amtszeit der Vorstandsmitglieder beträgt 1 Jahr. Sie bleiben bis zur Bestellung des neuen Vorstandes im Amt.
+4. Die Amtszeit der Vorstandsmitglieder beträgt 1 Jahr. Sie bleiben bis zur Bestellung des neuen Vorstandes im Amt.
 
-4. Der Vorstand soll in der Regel monatlich tagen.
+5. Der Vorstand soll in der Regel monatlich tagen.
 
-5. Die Beschlüsse sind schriftlich zu protokollieren und von dem Vorstandsvorsitzenden zu unterzeichnen.
+6. Die Beschlüsse sind schriftlich zu protokollieren und von dem Vorstandsvorsitzenden zu unterzeichnen.
 
 
 ## § 7 Satzungsänderungen und Auflösung
