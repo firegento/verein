@@ -2,7 +2,7 @@
 
 - Datum: 12.01.2013
 - Ort: 14129 Berlin, Badeweg 1
-- Anwesend: 30 Mitglieder
+- Anwesend: 14 Mitglieder
 - Versammlungsleiter: Fabian Blechschmidt
 - Protokollführer: Karl Spies
 
@@ -16,10 +16,10 @@ Zu Punkt 1:
 Die Satzung wurde der Mitgliederversammlung vorgelegt. Die Satzung wurde einstimmig angenommen.
 
 Zu Punkt 2:
-Der Vorstand wurde wie folgt gewählt:
+Der Vorstand wurde wie folgt einstimmig, offen, ohne Enthaltungen gewählt:
 
 - Vorsitzender: Damian Luszczymak
-- 1.Stellvertreter: Tobias Vogt
+- 1.Stellvertreter: Silvain Rayé
 - 2.Stellvertreter: Rouven Rieker
 - Kassenwart: Fabian Blechschmidt
 - Schriftführer: Karl Spies
