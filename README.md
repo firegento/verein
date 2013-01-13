@@ -1,4 +1,4 @@
-satzung
-=======
+FireGento Verein
+================
 
-Satzung des FireGento-Vereins
+Hier können alle Dokumente rund um den Verein "FireGento" gefunden werden.
