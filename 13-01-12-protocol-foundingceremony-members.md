@@ -10,7 +10,7 @@
 - Andreas von Studnitz, wohnhaft in: Meischenfeld 34, D-52076 Aachen
 - Tobias Vogt, wohnhaft in: Schrieweshof 3, D-33106 Paderborn
 - Viktor Franz, wohnhaft in: Preyerstr. 39, D-52249 Eschweiler
-- Silvain Rayé, wohnhaft in: Bremgartenstr. 62, CH-8967 Widen
+- Sylvain Rayé, wohnhaft in: Bremgartenstr. 62, CH-8967 Widen
 - Damian Luszczymak, wohnhaft in: Sanddornweg 6, D-32139 Spenge
 - Tim Bezhashvyly, wohnhaft in: Heganstr. 3, D-78224 Singen
 - Rouven Rieker, wohnhaft in: Limburgweg 35, D-73274 Notzingen
