@@ -21,7 +21,7 @@ Der Vorstand wurde wie folgt einstimmig, offen, ohne Enthaltungen gewählt:
 - Vorsitzender: Damian Luszczymak
 - 1.Stellvertreter: Sylvain Rayé
 - 2.Stellvertreter: Rouven Rieker
-- Kassenwart: Fabian Blechschmidt
+- Schatzmeister: Fabian Blechschmidt
 - Schriftführer: Karl Spies
 
 Hieraushin übernahm gewählte Vorstandsvorsitzende Damian Luszczymak die Versammlungsleitung.
