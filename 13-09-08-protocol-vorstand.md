@@ -1,7 +1,7 @@
-Vorstandssitzung
+﻿Vorstandssitzung
 ================
 
-Anwesende: Sylvain Rayé, Damian Luszczymak, Fabian Blechschmidt, Rouven Rieker
+Anwesende: Sylvain Rayé, Damian Luszczymak, Fabian Blechschmidt, Rouven Rieker, Karl Spies
 
 Leiter der Vorstandssitzung: Damian Luszczymak
 
@@ -19,12 +19,12 @@ TOP 2: Checkliste für Firegento Aktivitäten
 ----------------------------------------------
 
 1. Organistion und Durchführung einer Magento Unconference
-2. Klarere Darstellung unserer Ziele und Aufgaben in digitalen Medien
+2. Klare Darstellung unserer Ziele und Aufgaben in digitalen Medien
 	1. Newsletter, Mailingliste
 3. Umbenennung der Veranstaltungen von Magento Hackathon in Firegento Hackathon
 4. Feste Planung für Firegento Hackathon; Nord, Süd, Mitte
-5. Experimentelle Module werden unter dem Hackathon Namespace entwickelt,
-   sollen die Module weiter betreut werden, müssen sie in den Firegento Namespace portiert werden.
+5. Experimentelle Module werden unter dem Hackathon Namespace entwickelt.
+   Sollen die Module weiter betreut werden, müssen sie in den Firegento Namespace portiert werden.
 6. Definieren von Rahmenbedingungen für die Qualität von Firegento Modulen
 7. Erstellung einer Ablaufplanung für eine Firegento Veranstaltung:
 	* Location
