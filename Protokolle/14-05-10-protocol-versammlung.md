@@ -19,14 +19,14 @@ TOP 2: Protokoll der Vorstandssitzung vom 19. Sept. 2013
 
 TOP 3: Wie viele Hackathons sollen stattfinden 2015
 ---------------------------------------------------
-* Es werden 4 Hackathon stattfinden
-** 1 zusätzlicher Hackathon soll als Testballon innerhalb der Woche stattfinden
-** 1 zusätzlicher Firegento Hackathon wird nur für Mitglieder veranstaltet
+* Es werden 3 Hackathon stattfinden
+	* 1 zusätzlicher Hackathon soll als Testballon innerhalb der Woche stattfinden
+	* 1 zusätzlicher Firegento Hackathon wird nur für Mitglieder veranstaltet
 
 TOP 4:  Welche Orte kommen in Frage für Hackathons in 2015
 ----------------------------------------------------------
-* Ein Hackathon in Leipzig vor der Meet-Magento stattfinden, 
-* Ein Hackathon in Frankfurt unterhalb der Woche, 
+* Ein Hackathon in Leipzig vor der Meet-Magento stattfinden,
+* Ein Hackathon in Frankfurt unterhalb der Woche,
 * Ein Hackathon Hamburg und in einer Zurich (als Backup in Stuttgart)
 * Wir verwenden für alle FireGento Module den gleichen Coding-Standard.
 
@@ -37,11 +37,11 @@ TOP 5: Festlegung eines Coding-Standard und Code-Format mit abschließender Abst
 TOP 6: Vorstandswahlen
 ----------------------
 * Der Vorstand wird wiedergewählt:
-** Damian Luszczymak: Vorstand
-** Rouven Rieker: 1. Stellvertreter des Vorstandes
-** Sylvain Rayé: 2. Stellvertreter des Vorstandes
-** Fabian Blechschmidt: Kassenwart
-** Karl Spies: Protokollführer
+	* Damian Luszczymak: Vorstand
+	* Rouven Rieker: 1. Stellvertreter des Vorstandes
+	* Sylvain Rayé: 2. Stellvertreter des Vorstandes
+	* Fabian Blechschmidt: Kassenwart
+	* Karl Spies: Protokollführer
 
 TOP 7: Finanzplan für Veranstaltungen
 -------------------------------------
