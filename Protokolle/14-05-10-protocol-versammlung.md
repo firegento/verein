@@ -19,9 +19,9 @@ TOP 2: Protokoll der Vorstandssitzung vom 19. Sept. 2013
 
 TOP 3: Wie viele Hackathons sollen stattfinden 2015
 ---------------------------------------------------
-* Es werden 3 Hackathon stattfinden
-** 1 Hackathon soll als Testballon innerhalb der Woche stattfinden
-** 1 Firegento Hackathon wird nur für Mitglieder veranstaltet
+* Es werden 4 Hackathon stattfinden
+** 1 zusätzlicher Hackathon soll als Testballon innerhalb der Woche stattfinden
+** 1 zusätzlicher Firegento Hackathon wird nur für Mitglieder veranstaltet
 
 TOP 4:  Welche Orte kommen in Frage für Hackathons in 2015
 ----------------------------------------------------------
