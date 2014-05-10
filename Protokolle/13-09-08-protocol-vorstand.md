@@ -8,7 +8,7 @@ Leiter der Vorstandssitzung: Damian Luszczymak
 Protokollführer: Karl Spies
 
 TOP 1: Satzungsänderung
---------------------------
+-----------------------
 
 Der Vorstand beschließt - unter Verzicht auf alle gesetzlichen Formen und Fristen -, dass Fabian Blechschmidt die vom Amtsgericht Charlottenburg
 gefordete Satzungsänderung im GitHub Repository durch einen Pull-Request vornimmt. Alle Vorstandsmitglieder
@@ -16,7 +16,7 @@ gefordete Satzungsänderung im GitHub Repository durch einen Pull-Request vornim
 Vorstandsmitglieder zugestimmt haben, wird der Pull-Request gemerged und die Satzungsänderung tritt unverzüglich in Kraft.
 
 TOP 2: Checkliste für Firegento Aktivitäten
-----------------------------------------------
+-------------------------------------------
 
 1. Organistion und Durchführung einer Magento Unconference
 2. Klare Darstellung unserer Ziele und Aufgaben in digitalen Medien
