@@ -1,7 +1,7 @@
 ﻿Mitgliederversammlung
 =====================
 
-Anwesende: Sylvain Rayé, Damian Luszczymak, Fabian Blechschmidt, Rouven Rieker, Karl Spies, Tim Bezhashvyly, Michael , Nils Preuß
+Anwesende: Sylvain Rayé, Damian Luszczymak, Fabian Blechschmidt, Rouven Rieker, Karl Spies, Tim Bezhashvyly, Michael Ryvlin, Nils Preuß
 
 Leiter der Vorstandssitzung: Damian Luszczymak
 
@@ -36,7 +36,12 @@ TOP 5: Festlegung eines Coding-Standard und Code-Format mit abschließender Abst
 
 TOP 6: Vorstandswahlen
 ----------------------
-* Der Vorstand wird wiedergewählt.
+* Der Vorstand wird wiedergewählt:
+** Damian Luszczymak: Vorstand
+** Rouven Rieker: 1. Stellvertreter des Vorstandes
+** Sylvain Rayé: 2. Stellvertreter des Vorstandes
+** Fabian Blechschmidt: Kassenwart
+** Karl Spies: Protokollführer
 
 TOP 7: Finanzplan für Veranstaltungen
 -------------------------------------
