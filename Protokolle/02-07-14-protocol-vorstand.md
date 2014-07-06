@@ -26,8 +26,8 @@ TOP 2 FarmGento
 
 TOP 3 Ziele des Vereins
 ----------------------------
-- Wie werden nie Bargeld als Anreiz anbieten
-- Wie werden nie als Trainer auftreten
+- Wir werden nie Bargeld als Anreiz anbieten
+- Wir werden nie als Trainer auftreten
 
 TOP 4 Buchhaltung
 -----------------------
