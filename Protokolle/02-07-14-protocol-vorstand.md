@@ -45,6 +45,7 @@ TOP Tools
 TOP Magento Doctors Zürich
 ----------------------------------
 - Karl wird die Dateien zur Verfügung stellen für den Banner
+- Wir werden versuchen für die MM-CH ein Doctors-Team zu stellen
 
 TOP Magento Stammtisch
 -------------------------------
