@@ -1,4 +1,5 @@
-= Protokoll am 26.08.2014 =
+= Protokoll =
+Datum: 26.08.2014
 Teilnehmer: Damian Luszczymak, Fabian Blechschmidt, Rouven Rieker, Sylvain Rayé, Karl Spies
 
 = TOP =
