@@ -4,8 +4,6 @@ Protokoll
 Datum: 26.08.2014
 Teilnehmer: Fabian Blechschmidt, Rouven Rieker, Sylvain Rayé, Karl Spies
 
-Damian Luszczymak, 
-
 TOP
 ===
 
