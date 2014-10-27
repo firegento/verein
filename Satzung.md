@@ -47,7 +47,7 @@
    oder seinen Verpflichtungen gegenüber dem Verein nicht nachkommt.
 
 5. Gegen die Beschlüsse aus den Absätzen §§ 3.2 und 3.4 kann der Antragsteller bzw. das Mitglied die
-   Mitgliederversammlung anrufen. Diese entscheidet endgültig. Die Person ist zu der Versammlung einzuladen und
+   Mitgliederversammlung anrufen. Diese entscheidet endgültig, der ordentliche Rechtsweg ist nicht ausgeschlossen. Die Person ist zu der Versammlung einzuladen und
    anzuhören.
 
 
