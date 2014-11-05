@@ -16,7 +16,7 @@ TOP
 7. MageUC
 8. Wordpress
 9. Support
-10. Firgeneto Module Release
+10. Firegento Module Release
 
 TOP 1
 -----
