@@ -6,13 +6,13 @@ Teilnehmer
 
 Fabian Blechschmidt, Sylvain Rayé, Rouven Rieker, Karl Spies
 
-TOP 1 - Feedback aus Leipzig
-TOP 2 - Wahl des neuen Vorstandes
-TOP 3 - Mitgliederversammlung
-TOP 4 - Steuer und Finanzen
-TOP 5 - Magento Hackathons
-TOP 6 - Wie erbringen wir Support
-TOP 7 - Neue Mitglieder
+- TOP 1 - Feedback aus Leipzig
+- TOP 2 - Wahl des neuen Vorstandes
+- TOP 3 - Mitgliederversammlung
+- TOP 4 - Steuer und Finanzen
+- TOP 5 - Magento Hackathons
+- TOP 6 - Wie erbringen wir Support
+- TOP 7 - Neue Mitglieder
 
 TOP 1
 -----
