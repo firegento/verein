@@ -60,7 +60,10 @@
 ## § 5 Mitgliederversammlung
 1. Oberstes Organ ist die Mitgliederversammlung. Sie wird in der Regel vom Vorstandsvorsitzenden geleitet.
 
-2. Die Mitgliederversammlung stellt die Richtlinien für die Arbeit des Vereins auf und entscheidet Fragen von
+2. Eine Mitgliederversammlung kann auch online erfolgen, d.h. mit Hilfe von z.B. Skype, TeamViewer, TeamSpeak 
+   und ähnlichen Programmen. 
+
+3. Die Mitgliederversammlung stellt die Richtlinien für die Arbeit des Vereins auf und entscheidet Fragen von
    grundsätzlicher Bedeutung. Zu den Aufgaben der Mitgliederversammlung gehören insbesondere:
     1. Wahl und Abwahl des Vorstandes,
     2. Beratung über den Stand und die Planung der Arbeit,
@@ -73,19 +76,19 @@
     9. Beschlussfassung über die Übernahme neuer Aufgaben oder den Rückzug aus Aufgaben seitens des Vereins sowie
     10. Beschlussfassung über Änderungen der Satzung und die Auflösung des Vereins.
 
-3. Zur Mitgliederversammlung wird vom Vorstandsvorsitzenden, bei dessen Verhinderung von einem der Stellvertreter unter
+4. Zur Mitgliederversammlung wird vom Vorstandsvorsitzenden, bei dessen Verhinderung von einem der Stellvertreter unter
    Angabe der vorläufigen Tagesordnung mindestens zwei Wochen vorher schriftlich eingeladen. Sie tagt so oft es
    erforderlich ist, in der Regel einmal im Jahr.
 
-4. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn mindestens ein Drittel der Mitglieder sie unter
+5. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn mindestens ein Drittel der Mitglieder sie unter
    Angabe von Gründen verlangt. Sie muss spätestens vier Wochen nach Eingang des Antrags auf schriftliche Berufung
    tagen.
 
-5. Die ordnungsgemäß einberufene Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder
+6. Die ordnungsgemäß einberufene Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder
    beschlussfähig. Zu einer Versammlung nicht erschienene Mitglieder sind den dort gefassten Beschlüssen einspruchslos
    unterworfen. Ihre Beschlüsse werden mit Stimmenmehrheit gefasst.
 
-6. Über die Beschlüsse und, soweit zum Verständnis über deren Zustandekommen erforderlich, auch über den wesentlichen
+7. Über die Beschlüsse und, soweit zum Verständnis über deren Zustandekommen erforderlich, auch über den wesentlichen
    Verlauf der Verhandlung, ist eine Niederschrift anzufertigen. Sie wird vom Versammlungsleiter und dem Protokollführer
    unterschrieben.
 
@@ -124,3 +127,4 @@ Berlin, 12.01.2013
 
 
 Beschlossen auf der Gründungsversammlung am 12.01.2013 in Berlin.
+Geändert auf der Mitgliederversammlung am 09.09.2017 in Würzburg.
