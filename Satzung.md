@@ -61,7 +61,7 @@
 1. Oberstes Organ ist die Mitgliederversammlung. Sie wird in der Regel vom Vorstandsvorsitzenden geleitet.
 
 2. Eine Mitgliederversammlung kann auch online erfolgen, d.h. mit Hilfe von z.B. Skype, TeamViewer, TeamSpeak 
-   und ähnlichen Programmen. 
+   und ähnlichen Programmen. Insbesondere kann die Mitgliederversammlung auch Wahlen online abhalten.
 
 3. Die Mitgliederversammlung stellt die Richtlinien für die Arbeit des Vereins auf und entscheidet Fragen von
    grundsätzlicher Bedeutung. Zu den Aufgaben der Mitgliederversammlung gehören insbesondere:
