@@ -44,7 +44,7 @@
    Beitragspflicht für das laufende Geschäftsjahr bleibt hiervon unberührt.
 
 4. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es den Vereinszielen zuwider handelt
-   oder seinen Verpflichtungen gegenüber dem Verein nicht nachkommt.
+   oder den Verpflichtungen gegenüber dem Verein nicht nachkommt.
 
 5. Gegen die Beschlüsse aus den Absätzen §§ 3.2 und 3.4 kann der Antragsteller bzw. das Mitglied die
    Mitgliederversammlung anrufen. Diese entscheidet endgültig. Die Person ist zu der Versammlung einzuladen und
