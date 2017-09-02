@@ -83,8 +83,8 @@
 
 5. Die ordnungsgemäß einberufene Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder
    beschlussfähig. Ein abwesendes Mitglied kann seine/ihre Stimme einem anderen, anwesenden Mitglied übertragen. Einem Mitglied 
-   darf maximal eine weitere Stimme übertragen werden, so dass das Mitglied maximal zwei Stimmen hat, seine eigene und 
-   eine übertragene. Die Vertretungsvollmacht muss bei der Abstimmung schriftlich vorliegen und vom abwesenden Mitglied 
+   darf maximal zwei weitere Stimme übertragen werden, so dass das Mitglied maximal drei Stimmen hat, seine eigene und 
+   zwei übertragene. Die Vertretungsvollmacht muss bei der Abstimmung schriftlich vorliegen und vom abwesenden Mitglied 
    unterschrieben sein. Zu einer Versammlung nicht erschienene Mitglieder sind den dort gefassten Beschlüssen 
    einspruchslos unterworfen. Ihre Beschlüsse werden mit Stimmenmehrheit gefasst.
 
