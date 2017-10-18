@@ -130,4 +130,4 @@ Berlin, 12.01.2013
 
 
 Beschlossen auf der Gründungsversammlung am 12.01.2013 in Berlin.
-Geändert auf der Mitgliederversammlung am 09.09.2017 in Würzburg.
+Geändert auf der Mitgliederversammlung am 08.09.2017 in Würzburg.
