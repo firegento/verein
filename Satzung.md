@@ -1,4 +1,4 @@
-#Satzung des FireGento e.V.
+# Satzung des FireGento e.V.
 
 ## § 1 Name, Sitz, Geschäftsjahr
 1. Der Verein führt den Namen "FireGento". Der Verein wird in das Vereinsregister eingetragen und dann um den Zusatz
