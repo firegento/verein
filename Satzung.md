@@ -126,8 +126,5 @@
    das gesamte Vermögen an eine von der auflösenden Mitgliederversammlung zu beschließende als steuerbegünstigt
    anerkannte Körperschaft, die es ausschließlich und unmittelbar für steuerbegünstigte Zwecke zu verwenden hat.
 
-Berlin, 12.01.2013
-
-
-Beschlossen auf der Gründungsversammlung am 12.01.2013 in Berlin.
+Beschlossen auf der Gründungsversammlung am 12.01.2013 in Berlin.  
 Geändert auf der Mitgliederversammlung am 11.09.2018 in Kiel.
