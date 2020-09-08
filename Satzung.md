@@ -89,7 +89,7 @@
    darf maximal zwei weitere Stimme übertragen werden, so dass das Mitglied maximal drei Stimmen hat, seine eigene und 
    zwei übertragene. Die Vertretungsvollmacht muss bei der Abstimmung dem Vorstand schriftlich vorliegen und vom abwesenden Mitglied 
    unterschrieben sein. Zu einer Versammlung nicht erschienene Mitglieder sind den dort gefassten Beschlüssen 
-   einspruchslos unterworfen. Ihre Beschlüsse werden mit Stimmenmehrheit gefasst.
+   einspruchslos unterworfen. Ihre Beschlüsse werden mit einfacher Stimmenmehrheit gefasst.
 
 7. Über die Beschlüsse und, soweit zum Verständnis über deren Zustandekommen erforderlich, auch über den wesentlichen
    Verlauf der Verhandlung, ist eine Niederschrift anzufertigen. Sie wird vom Versammlungsleiter und dem Protokollführer
