@@ -65,7 +65,7 @@
 
 3. Die Mitgliederversammlung stellt die Richtlinien für die Arbeit des Vereins auf und entscheidet Fragen von
    grundsätzlicher Bedeutung. Zu den Aufgaben der Mitgliederversammlung gehören insbesondere:
-    1. Wahl und Abwahl des Vorstandes,
+    1. Wahl und Abwahl des Vorstandes, wobei die Beisitzer mit einfacher Mehrheit gewählt werden,
     2. Beratung über den Stand und die Planung der Arbeit,
     3. Genehmigung des vom Vorstand vorgelegten Haushaltsplans,
     4. Beschlussfassung über den Jahresabschluss,
