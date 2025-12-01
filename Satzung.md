@@ -77,12 +77,9 @@
     10. Beschlussfassung über Änderungen der Satzung und die Auflösung des Vereins.
 
 4. Zur Mitgliederversammlung wird vom Vorstandsvorsitzenden, bei dessen Verhinderung von einem der Stellvertreter unter
-   Angabe der vorläufigen Tagesordnung mindestens zwei Wochen vorher schriftlich eingeladen. Sie tagt so oft es
-   erforderlich ist, in der Regel einmal im Jahr.
-
-5. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn mindestens ein Drittel der Mitglieder sie unter
-   Angabe von Gründen verlangt. Sie muss spätestens vier Wochen nach Eingang des Antrags auf schriftliche Berufung
-   tagen.
+   Angabe der vorläufigen Tagesordnung mindestens zwei Wochen vorher schriftlich eingeladen. Mitgliederversammlungen finden
+   ausschließlich auf Beschluss des Vorstands oder auf Antrag von mindestens einem Zehntel der Mitglieder statt.
+   Der Vorstand ist verpflichtet, einer solchen Einberufung innerhalb von vier Wochen nachzukommen.
 
 5. Die ordnungsgemäß einberufene Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder
    beschlussfähig. Ein abwesendes Mitglied kann seine/ihre Stimme einem anderen, anwesenden Mitglied übertragen. Einem Mitglied 
@@ -91,7 +88,7 @@
    unterschrieben sein. Zu einer Versammlung nicht erschienene Mitglieder sind den dort gefassten Beschlüssen 
    einspruchslos unterworfen. Ihre Beschlüsse werden mit Stimmenmehrheit gefasst.
 
-7. Über die Beschlüsse und, soweit zum Verständnis über deren Zustandekommen erforderlich, auch über den wesentlichen
+6. Über die Beschlüsse und, soweit zum Verständnis über deren Zustandekommen erforderlich, auch über den wesentlichen
    Verlauf der Verhandlung, ist eine Niederschrift anzufertigen. Sie wird vom Versammlungsleiter und dem Protokollführer
    unterschrieben.
 
@@ -127,5 +124,7 @@
    anerkannte Körperschaft, die es ausschließlich und unmittelbar für steuerbegünstigte Zwecke zu verwenden hat.
 
 Beschlossen auf der Gründungsversammlung am 12.01.2013 in Berlin.  
-Geändert auf der Mitgliederversammlung am 11.09.2018 in Kiel.
-Geändert auf der Online-Mitgliederversammlung am 22.09.2020.
+Geändert auf der Mitgliederversammlung am 11.09.2018 in Kiel.  
+Geändert auf der Online-Mitgliederversammlung am 22.09.2020.  
+Geändert auf der Online-Mitgliederversammlung am 15.12.2025.  
+
