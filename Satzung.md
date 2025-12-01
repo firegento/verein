@@ -81,10 +81,6 @@
    ausschließlich auf Beschluss des Vorstands oder auf Antrag von mindestens einem Zehntel der Mitglieder statt.
    Der Vorstand ist verpflichtet, einer solchen Einberufung innerhalb von vier Wochen nachzukommen.
 
-6. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn mindestens ein Drittel der Mitglieder sie unter
-   Angabe von Gründen verlangt. Sie muss spätestens vier Wochen nach Eingang des Antrags auf schriftliche Berufung
-   tagen.
-
 5. Die ordnungsgemäß einberufene Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder
    beschlussfähig. Ein abwesendes Mitglied kann seine/ihre Stimme einem anderen, anwesenden Mitglied übertragen. Einem Mitglied 
    darf maximal zwei weitere Stimme übertragen werden, so dass das Mitglied maximal drei Stimmen hat, seine eigene und 
@@ -92,7 +88,7 @@
    unterschrieben sein. Zu einer Versammlung nicht erschienene Mitglieder sind den dort gefassten Beschlüssen 
    einspruchslos unterworfen. Ihre Beschlüsse werden mit Stimmenmehrheit gefasst.
 
-7. Über die Beschlüsse und, soweit zum Verständnis über deren Zustandekommen erforderlich, auch über den wesentlichen
+6. Über die Beschlüsse und, soweit zum Verständnis über deren Zustandekommen erforderlich, auch über den wesentlichen
    Verlauf der Verhandlung, ist eine Niederschrift anzufertigen. Sie wird vom Versammlungsleiter und dem Protokollführer
    unterschrieben.
 
