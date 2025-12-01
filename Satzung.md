@@ -77,10 +77,11 @@
     10. Beschlussfassung über Änderungen der Satzung und die Auflösung des Vereins.
 
 4. Zur Mitgliederversammlung wird vom Vorstandsvorsitzenden, bei dessen Verhinderung von einem der Stellvertreter unter
-   Angabe der vorläufigen Tagesordnung mindestens zwei Wochen vorher schriftlich eingeladen. Sie tagt so oft es
-   erforderlich ist, in der Regel einmal im Jahr.
+   Angabe der vorläufigen Tagesordnung mindestens zwei Wochen vorher schriftlich eingeladen. Mitgliederversammlungen finden
+   ausschließlich auf Beschluss des Vorstands oder auf Antrag von mindestens einem Zehntel der Mitglieder statt.
+   Der Vorstand ist verpflichtet, einer solchen Einberufung innerhalb von vier Wochen nachzukommen.
 
-5. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn mindestens ein Drittel der Mitglieder sie unter
+6. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn mindestens ein Drittel der Mitglieder sie unter
    Angabe von Gründen verlangt. Sie muss spätestens vier Wochen nach Eingang des Antrags auf schriftliche Berufung
    tagen.
 
